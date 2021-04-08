@@ -1,0 +1,16 @@
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/Operacion.class
+edu/iasp/pruebas/web/cargamasiva/config/ConfigJSF.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/TipoDocumento.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/Departamento.class
+edu/iasp/pruebas/web/cargamasiva/modelo/dao/impl/UsuarioDAOJPA.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/RolOperacion.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/UsuarioRol.class
+edu/iasp/pruebas/web/cargamasiva/modelo/dao/impl/GenericDAO.class
+edu/iasp/pruebas/web/cargamasiva/modelo/dto/InfoCargaUsuarioDTO.class
+edu/iasp/pruebas/web/cargamasiva/modelo/dao/UsuarioDAO.class
+edu/iasp/pruebas/web/cargamasiva/modelo/dao/DAO.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/Municipio.class
+edu/iasp/pruebas/web/cargamasiva/modelo/dto/CargaDataErrorDTO.class
+edu/iasp/pruebas/web/cargamasiva/controllers/UsuariosController.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/Usuario.class
+edu/iasp/pruebas/web/cargamasiva/modelo/entities/Rol.class

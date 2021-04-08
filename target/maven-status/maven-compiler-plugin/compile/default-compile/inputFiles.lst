@@ -1,0 +1,14 @@
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/controllers/UsuariosController.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/Operacion.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/Rol.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/Departamento.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/RolOperacion.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/config/ConfigJSF.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/dao/UsuarioDAO.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/Municipio.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/TipoDocumento.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/Usuario.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/dao/impl/UsuarioDAOJPA.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/dao/DAO.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/dao/impl/GenericDAO.java
+/Users/ismael/Documents/SENA/Fichas/EjemploLand/cargamasiva/src/main/java/edu/iasp/pruebas/web/cargamasiva/modelo/entities/UsuarioRol.java
